@@ -1,7 +1,6 @@
 # Welcome to Wymbert's Adventures!
+###Created By: James Fagan
 Basic pygame
-
-Created By: James Fagan
 
 Tortoise's are invading! Do you have what it takes to stop them in time?
 
