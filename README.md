@@ -35,6 +35,6 @@ Dust Minions -- Weakness: Wind
 
 
 Special thanks for artwork:
-edalhoff345
-Boltdragon21
+edalhoff345,
+Boltdragon21,
 LSWBeast
